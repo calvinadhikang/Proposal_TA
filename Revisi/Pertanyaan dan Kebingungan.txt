@@ -1,0 +1,12 @@
+Fitur Reminder bisa otomatis lewat hosting.. namun ketakutan saya adalah tidak semua paket hosting yang masuk budget perusahaan bisa hosting / cli..
+boleh tidak remindernya hanya datang saat user login
+
+@Audrey - Ujicoba minma l0 akun real, bila perusahaan tidak sampai 10 bagaimana ? Apakah 10 akun itu total role ?
+
+Notasi Activity Diagram perlu menampilkan output barang fisik ? seperti dokumen laporan yang di download admin
+
+Vulkanisir apabila dihapus bagaimana pak ? karena perusahaan blum ada rencana kesana -> jalan saja
+
+@Hartarto - Level perusahaan ada AP dan AR handle ? ini maksundya bagaimana pak ? apkaha saya menjelaskan ulang lebih detail proses penanganan hutan dan piutang
+
+@Hartarto - Sistem yang dituliskan dalam proposal masih tidak mencover semua sistem yang ada pada perusahaan ?

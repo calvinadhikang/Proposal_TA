@@ -8,4 +8,6 @@ Riwayat daftar Pustaka V, tinggal nomor halaman
 
 notes:
 - bab 6 ga ada di file
-- bab 5 7 banyak gambar harus diperbaiki,terakhiran aja
+- bab 5 sudah dibenerin semua formatnya
+
+diatas bab 6 nomor halaman blm disesuaikan

@@ -1,5 +1,11 @@
-4,5
-7-10,
+4,5 V
+7-10, tunggu konten halaman fix semua
 19,20,
-daftar pustaka,
-riwayat hidup,
+
+Riwayat daftar Pustaka V, tinggal nomor halaman
+
+
+
+notes:
+- bab 6 ga ada di file
+- bab 5 7 banyak gambar harus diperbaiki,terakhiran aja
